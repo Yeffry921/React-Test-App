@@ -1,1 +1,1 @@
-- Testing and playing around with react
+- First React App, mainly for learning and testing purposes
